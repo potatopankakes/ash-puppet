@@ -2,7 +2,7 @@ node /^h\d+\.ash\.gnoras\.com/ {
   include common
   include nginx
   include vertx
-  include jre
+  include java
   include redis
 }
 
